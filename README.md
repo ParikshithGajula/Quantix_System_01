@@ -86,4 +86,4 @@ Contributions are welcome! Please fork this repository and submit a pull request
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
-**Maintained by:** [venkatanaveen2078909](https://github.com/venkatanaveen2078909-rgb)
+**Maintained by:** [parikshith](https://github.com/ParikshithGajula)
